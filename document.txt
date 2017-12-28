@@ -1,0 +1,20 @@
+/**
+  *@Author Le Minh Hoang
+**/  
++ Account test 
+- username : test 
+- password : test
++ List link 
+- http://domain.com/DashboardController/dashboard
+- http://domain.com/DashboardController/todo
+- http://domain.com/UsersController/login -> if account is staff then redirect to - http://domain.com/Home/myWork else to - http://domain.com/DashboardController/dashboard
+- http://domain.com/UsersController/logout
+- http://domain.com/Home/myWork
++ Install 
+- Import database -> go to config/datbase.php then make edit . Next you will see config.php and make your domain config . => Finish o(-_-)o
++ Staff 
+- New staff do login by password = 123456789 
++ I DON'T UNDERSTAND 
+- I don't understand about function " Final problem result " so i can't make it . i sorry very much, if i can understand and i sure it will be complete
++ Description framework 
+- This's mvc action very good , because it's work with each module different with a way very nice . 

@@ -1,0 +1,15 @@
+.inline-block {
+        width: 100%;
+    display: inline-block;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+table {
+    width:100%;
+}
+td {
+    padding: 0;
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}

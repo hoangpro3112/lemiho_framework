@@ -1,0 +1,23 @@
+body {
+
+}
+.margin-top-10100 {
+    margin-top: 10%;
+}
+.border-all {
+    border: 1px solid #ccc;
+}
+.lemiho-input {
+    margin-bottom: 20px;
+}
+.col-xs-12.col-sm-6.col-md-4.col-lg-4.col-sm-offset-3.col-md-offset-4.col-lg-offset-4 {
+    padding:20px;
+}
+.col-xs-12.col-sm-6.col-md-4.col-lg-4.col-sm-offset-3.col-md-offset-4.col-lg-offset-4 > label:nth-child(1) {
+    position: absolute;
+    margin-top: -37px;
+    font-size: 22px;
+    text-transform: uppercase;
+    background: white;
+    padding: 0px 10px;
+}
